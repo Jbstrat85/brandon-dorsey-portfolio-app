@@ -1,5 +1,5 @@
 {
-	"name": "brandon-dorsey-portfolio-app",
+	"name": "brandon-dorsey-portfolio",
 	"version": "0.0.1",
 	"description": "Brandon Dorsey FCC Backend Challenge Web App",
 	"engines": { 
@@ -20,10 +20,11 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://githost.com/camper/repo.git"
+		"url": "https://github.com/Jbstrat85/brandon-dorsey-portfolio-app"
 	},
 	"keywords": [
 		"node",
+		"heroku",
 		"hyperdev",
 		"express",
 		"freecodecamp"
