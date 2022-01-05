@@ -1,4 +1,4 @@
-# Brandon Dorsey Microservice Projects 
+# Brandon Dorsey Portfolio 
 ### Description
 
 This is a portfolio application that displays Brandon Dorsey Microservice and API work.
