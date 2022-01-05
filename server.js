@@ -31,7 +31,7 @@ app.get("/api/timestamp/:date_string", function (req, res) {
 
 
 
-  res.json({"error" : "Invalid Date" })
+  res.json({"error" : "Invalid Date" });
 });
 
 
